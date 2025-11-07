@@ -30,7 +30,7 @@ def convert_json_to_html(json_path, output_path):
         <script>
             var data = {data_json};
             var layout = {layout_json};
-            Plotly.newPlot('plotly-div', data, layout: {{...layout, autosize: true}});
+            Plotly.newPlot('plotly-div', data, {{...layout, autosize: true}});
         </script>
     </body>
 </html>"""
