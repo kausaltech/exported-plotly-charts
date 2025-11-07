@@ -1,0 +1,1297 @@
+{
+  "data": [
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Alb-T"
+        }
+      },
+      "mode": "markers",
+      "name": "Albany Emissions",
+      "type": "bar",
+      "xsrc": "MFMechenich:44:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:44:5c2da9",
+      "y": [
+        "70318.0996090279",
+        "67546.5488290443",
+        "66077.7712450324",
+        "64593.6672479645",
+        "63094.2368378403",
+        "61579.4800146599",
+        "60049.3967784233",
+        "58503.9871291307",
+        "56943.2510667818",
+        "55367.1885913767",
+        "53775.7997029154",
+        "52169.084401398",
+        "50547.0426868245",
+        "48909.6745591947",
+        "47256.9800185087",
+        "45588.9590647666",
+        "43905.6116979683",
+        "42206.9379181138",
+        "40492.9377252032",
+        "38763.6111192364",
+        "37018.9581002133",
+        "35258.9786681341",
+        "33483.6728229987",
+        "31693.0405648072",
+        "29887.0818935595",
+        "28065.7968092556",
+        "26229.1853118956",
+        "24377.2474014794",
+        "22509.9830780069",
+        "20627.3923414782"
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(255, 255, 255)",
+          "width": 1
+        },
+        "color": "rgb(220, 220, 220)"
+      },
+      "hoverinfo": "none",
+      "showlegend": false,
+      "legendgroup": "",
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Alb-1.4"
+        }
+      },
+      "name": "Green Building Design",
+      "type": "bar",
+      "xsrc": "MFMechenich:44:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:44:e59b89",
+      "y": [
+        "-125",
+        "-452",
+        "-764",
+        "-1061",
+        "-1343",
+        "-1611",
+        "-1863",
+        "-2099",
+        "-2320",
+        "-2524",
+        "-2838",
+        "-3004",
+        "-3153",
+        "-3285",
+        "-3400",
+        "-3499",
+        "-3580",
+        "-3643",
+        "-3688",
+        "-3715",
+        "-3581",
+        "-3409",
+        "-3236",
+        "-3061",
+        "-2884",
+        "-2712",
+        "-2533",
+        "-2352",
+        "-2170",
+        "-1987"
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(255, 255, 255)",
+          "width": 1
+        },
+        "color": "rgb(78, 121, 167)"
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Alb-3a.9"
+        }
+      },
+      "name": "Install Renewable Energy",
+      "type": "bar",
+      "xsrc": "MFMechenich:44:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:44:971a1a",
+      "y": [
+        "-982",
+        "-3532",
+        "-5962",
+        "-8272",
+        "-10458",
+        "-12520",
+        "-14456",
+        "-16263",
+        "-17940",
+        "-19485",
+        "-19873",
+        "-19237",
+        "-18594",
+        "-17944",
+        "-17288",
+        "-16625",
+        "-15955",
+        "-15279",
+        "-14596",
+        "-13907",
+        "-13337",
+        "-12626",
+        "-11909",
+        "-11186",
+        "-10456",
+        "-9739",
+        "-8995",
+        "-8245",
+        "-7488",
+        "-6724"
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(255, 255, 255)",
+          "width": 1
+        },
+        "color": "rgb(242, 142, 43)"
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Alb-1.14"
+        }
+      },
+      "name": "Building Efficiency Upgrades",
+      "type": "bar",
+      "xsrc": "MFMechenich:44:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:44:f4085a",
+      "y": [
+        "-47",
+        "-171",
+        "-288",
+        "-400",
+        "-507",
+        "-607",
+        "-701",
+        "-790",
+        "-872",
+        "-948",
+        "-1065",
+        "-1126",
+        "-1180",
+        "-1229",
+        "-1270",
+        "-1305",
+        "-1333",
+        "-1354",
+        "-1369",
+        "-1376",
+        "-1323",
+        "-1256",
+        "-1189",
+        "-1121",
+        "-1053",
+        "-986",
+        "-916",
+        "-846",
+        "-775",
+        "-703"
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(255, 255, 255)",
+          "width": 1
+        },
+        "color": "rgb(225, 87, 89)"
+      },
+      "opacity": 1,
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Alb-1.12"
+        }
+      },
+      "name": "Energy Efficiency via Behaviour Change",
+      "type": "bar",
+      "xsrc": "MFMechenich:44:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:44:b58d86",
+      "y": [
+        "-48",
+        "-174",
+        "-293",
+        "-407",
+        "-516",
+        "-619",
+        "-715",
+        "-806",
+        "-891",
+        "-969",
+        "-1090",
+        "-1153",
+        "-1211",
+        "-1261",
+        "-1306",
+        "-1344",
+        "-1375",
+        "-1399",
+        "-1416",
+        "-1427",
+        "-1444",
+        "-1440",
+        "-1429",
+        "-1410",
+        "-1385",
+        "-1302",
+        "-1216",
+        "-1129",
+        "-1042",
+        "-954"
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(255, 255, 255)",
+          "width": 1
+        },
+        "color": "rgb(118, 183, 178)"
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Alb-1.44"
+        }
+      },
+      "name": "Building Efficiency Upgrades (Electrification)",
+      "type": "bar",
+      "xsrc": "MFMechenich:44:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:44:546607",
+      "y": [
+        "-2",
+        "-8",
+        "-13",
+        "-19",
+        "-25",
+        "-31",
+        "-37",
+        "-43",
+        "-49",
+        "-55",
+        "-64",
+        "-70",
+        "-77",
+        "-83",
+        "-90",
+        "-96",
+        "-103",
+        "-110",
+        "-116",
+        "-123",
+        "-125",
+        "-126",
+        "-127",
+        "-128",
+        "-129",
+        "-130",
+        "-131",
+        "-133",
+        "-134",
+        "-136"
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(255, 255, 255)",
+          "width": 1
+        },
+        "color": "rgb(89, 161, 79)"
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Alb-1.43"
+        }
+      },
+      "name": "Building Efficiency Upgrades (Building Shell)",
+      "type": "bar",
+      "xsrc": "MFMechenich:44:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:44:2d0447",
+      "y": [
+        "-63",
+        "-226",
+        "-382",
+        "-531",
+        "-672",
+        "-805",
+        "-931",
+        "-1050",
+        "-1160",
+        "-1262",
+        "-1419",
+        "-1502",
+        "-1576",
+        "-1643",
+        "-1700",
+        "-1749",
+        "-1790",
+        "-1821",
+        "-1844",
+        "-1858",
+        "-1790",
+        "-1705",
+        "-1618",
+        "-1530",
+        "-1442",
+        "-1356",
+        "-1266",
+        "-1176",
+        "-1085",
+        "-993"
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(255, 255, 255)",
+          "width": 1
+        },
+        "color": "rgb(237, 201, 72)"
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Alb-1.32"
+        }
+      },
+      "name": "Offsets &amp; Abatements",
+      "type": "bar",
+      "xsrc": "MFMechenich:44:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:44:be69e7",
+      "y": [
+        "-50",
+        "-181",
+        "-306",
+        "-424",
+        "-537",
+        "-644",
+        "-745",
+        "-840",
+        "-928",
+        "-1010",
+        "-1032",
+        "-1001",
+        "-970",
+        "-939",
+        "-907",
+        "-875",
+        "-842",
+        "-810",
+        "-776",
+        "-743",
+        "-716",
+        "-682",
+        "-647",
+        "-612",
+        "-577",
+        "-542",
+        "-507",
+        "-470",
+        "-434",
+        "-397"
+      ],
+      "marker": {
+        "line": {
+          "color": "rgb(255, 255, 255)",
+          "width": 1
+        },
+        "color": "rgb(176, 122, 161)"
+      },
+      "opacity": 1,
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "x": 0.05,
+      "font": {
+        "size": 24
+      },
+      "text": "Household Emissions (Albany)"
+    },
+    "xaxis": {
+      "type": "linear",
+      "dtick": 5,
+      "range": [
+        2020.5,
+        2050.5
+      ],
+      "title": {
+        "text": "<br>"
+      },
+      "tickmode": "linear",
+      "autorange": true,
+      "automargin": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        74019.05222002936
+      ],
+      "title": {
+        "text": "Emissions (t CO2e)"
+      },
+      "autorange": true
+    },
+    "bargap": 0.30000000000000004,
+    "legend": {
+      "x": 0,
+      "y": -0.1,
+      "font": {
+        "size": 12
+      },
+      "title": {
+        "text": "<b>Emissions &amp; Action Impact </b><br>&nbsp;&nbsp;Click each legend item to turn the action on/off."
+      },
+      "valign": "middle",
+      "xanchor": "left",
+      "yanchor": "top",
+      "traceorder": "normal",
+      "borderwidth": 0,
+      "orientation": "v"
+    },
+    "margin": {
+      "b": 50,
+      "l": 50,
+      "r": 10,
+      "t": 50,
+      "pad": 0
+    },
+    "barmode": "stack",
+    "modebar": {
+      "orientation": "h"
+    },
+    "autosize": true,
+    "colorway": [
+      "#1f77b4",
+      "#ff7f0e",
+      "#2ca02c",
+      "#d62728",
+      "#9467bd",
+      "#8c564b",
+      "#e377c2",
+      "#7f7f7f",
+      "#bcbd22",
+      "#17becf"
+    ],
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "type": "bar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "table": [
+          {
+            "type": "table",
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "type": "carpet",
+            "aaxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            }
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatter": [
+          {
+            "type": "scatter",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "histogram": [
+          {
+            "type": "histogram",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "scatter3d": [
+          {
+            "type": "scatter3d",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ]
+      },
+      "layout": {
+        "geo": {
+          "bgcolor": "white",
+          "showland": true,
+          "lakecolor": "white",
+          "landcolor": "white",
+          "showlakes": true,
+          "subunitcolor": "#C8D4E3"
+        },
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "polar": {
+          "bgcolor": "white",
+          "radialaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          },
+          "angularaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "yaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "zaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "ternary": {
+          "aaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "baxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "caxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "bgcolor": "white"
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#19d3f3",
+          "#e763fa",
+          "#fecb52",
+          "#ffa15a",
+          "#ff6692",
+          "#b6e880"
+        ],
+        "hovermode": "closest",
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ]
+        },
+        "plot_bgcolor": "white",
+        "paper_bgcolor": "white",
+        "shapedefaults": {
+          "line": {
+            "width": 0
+          },
+          "opacity": 0.4,
+          "fillcolor": "#506784"
+        },
+        "annotationdefaults": {
+          "arrowhead": 0,
+          "arrowcolor": "#506784",
+          "arrowwidth": 1
+        }
+      },
+      "themeRef": "PLOTLY_WHITE"
+    },
+    "plot_bgcolor": "rgba(255, 255, 255, 0.01)",
+    "paper_bgcolor": "rgba(255, 255, 255, 0.01)"
+  }
+}

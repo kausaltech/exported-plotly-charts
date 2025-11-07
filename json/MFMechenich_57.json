@@ -1,0 +1,1457 @@
+{
+  "data": [
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Emissions",
+          "marker": {
+            "color": "Sector"
+          }
+        }
+      },
+      "mode": "markers",
+      "type": "bar",
+      "xsrc": "MFMechenich:56:52757e",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "MFMechenich:56:8d5847",
+      "y": [
+        "608.7",
+        "1040.3",
+        "960.1",
+        "759.2",
+        "826.3",
+        "988.3",
+        "762.9",
+        "548.1",
+        "663.5",
+        "554.8",
+        "428.6",
+        "464.2",
+        "408.9",
+        "455.5",
+        "368.9",
+        "286",
+        "320.8",
+        "53.1",
+        "70",
+        "68",
+        "50.6",
+        "61.9",
+        "73.5",
+        "56.7",
+        "41",
+        "48.7",
+        "36.9",
+        "31.6",
+        "36.2",
+        "30.7",
+        "34.2",
+        "26.5",
+        "21.8",
+        "25.8",
+        "1300.9",
+        "1397.5",
+        "1273.1",
+        "1075.2",
+        "1300.1",
+        "1449.3",
+        "1209.7",
+        "1314",
+        "1266",
+        "1162.7",
+        "1077.7",
+        "1404.4",
+        "1390.2",
+        "1325.4",
+        "1297",
+        "1099.8",
+        "1246.4",
+        "72.7",
+        "72.9",
+        "67.4",
+        "51",
+        "51.3",
+        "56.3",
+        "43.5",
+        "45.6",
+        "41.1",
+        "38.9",
+        "34.1",
+        "36",
+        "32.7",
+        "31.8",
+        "28.4",
+        "24.6",
+        "23.6",
+        "7.2",
+        "6.4",
+        "7.1",
+        "8.6",
+        "9.3",
+        "10.7",
+        "9.8",
+        "10.3",
+        "10",
+        "9.8",
+        "15.7",
+        "15.8",
+        "13.8",
+        "13.8",
+        "14.1",
+        "12.2",
+        "15.3",
+        "37.9",
+        "36.3",
+        "35.7",
+        "41.8",
+        "32.7",
+        "28.3",
+        "24.3",
+        "26",
+        "23.9",
+        "16.6",
+        "17.8",
+        "16",
+        "18.3",
+        "13.7",
+        "12.5",
+        "11.7",
+        "10.5",
+        "67.1",
+        "68.5",
+        "71.6",
+        "77",
+        "75.6",
+        "74.6",
+        "69.6",
+        "76.6",
+        "75",
+        "74",
+        "74.6",
+        "71.7",
+        "82.5",
+        "85.1",
+        "89.4",
+        "91.2",
+        "84",
+        "761.5",
+        "764",
+        "768.5",
+        "737.7",
+        "709.9",
+        "715.6",
+        "694.5",
+        "679.2",
+        "682.2",
+        "626.8",
+        "615.7",
+        "672.6",
+        "635.3",
+        "635.2",
+        "619.3",
+        "581.8",
+        "544.4",
+        "24.5",
+        "39.9",
+        "30.2",
+        "24.6",
+        "25.9",
+        "32.8",
+        "26.6",
+        "18.5",
+        "22.7",
+        "19.3",
+        "15.3",
+        "16.2",
+        "15.3",
+        "17.7",
+        "13.7",
+        "10.4",
+        "10.9",
+        "52.7",
+        "52.8",
+        "53.9",
+        "49.2",
+        "45.2",
+        "46",
+        "48",
+        "48.5",
+        "52.8",
+        "46.9",
+        "48.6",
+        "46.8",
+        "51.5",
+        "52",
+        "48.7",
+        "43.7",
+        "43.9",
+        "1.6",
+        "1.6",
+        "1.4",
+        "1.5",
+        "1.7",
+        "1.7",
+        "1.6",
+        "1.6",
+        "1.6",
+        "1.6",
+        "1.7",
+        "1.8",
+        "1.6",
+        "1.8",
+        "1.4",
+        "1.3",
+        "1.2",
+        "87.7",
+        "115",
+        "101.2",
+        "67.3",
+        "99",
+        "81",
+        "66.7",
+        "76.6",
+        "70.8",
+        "85.3",
+        "73.3",
+        "58.4",
+        "54.7",
+        "50.7",
+        "42",
+        "40",
+        "29.3",
+        "100.6",
+        "113.1",
+        "115.2",
+        "120.1",
+        "118.2",
+        "116.4",
+        "115.2",
+        "116.3",
+        "114.4",
+        "113.9",
+        "106.1",
+        "109",
+        "101.9",
+        "101.1",
+        "95.9",
+        "91.7",
+        "84.6"
+      ],
+      "marker": {
+        "meta": {
+          "columnNames": {
+            "color": "Sector"
+          }
+        },
+        "color": "#636efa"
+      },
+      "transforms": [
+        {
+          "meta": {
+            "columnNames": {
+              "groups": "Sector"
+            }
+          },
+          "type": "groupby",
+          "styles": [
+            {
+              "value": {
+                "name": "Electricity",
+                "marker": {
+                  "color": "rgb(235, 193, 82)"
+                }
+              },
+              "target": "Electricity"
+            },
+            {
+              "value": {
+                "name": "Electric Heating",
+                "marker": {
+                  "color": "rgb(228, 159, 21)"
+                }
+              },
+              "target": "Electric Heating"
+            },
+            {
+              "value": {
+                "name": "District Heating",
+                "marker": {
+                  "color": "rgb(218, 100, 87)"
+                }
+              },
+              "target": "District Heating"
+            },
+            {
+              "value": {
+                "name": "Oil Heating",
+                "marker": {
+                  "color": "rgb(222, 133, 99)"
+                }
+              },
+              "target": "Oil Heating"
+            },
+            {
+              "value": {
+                "name": "Other Heating",
+                "marker": {
+                  "color": "rgb(228, 190, 151)"
+                }
+              },
+              "target": "Other Heating"
+            },
+            {
+              "value": {
+                "name": "Industry",
+                "marker": {
+                  "color": "rgb(85, 85, 85)"
+                }
+              },
+              "target": "Industry"
+            },
+            {
+              "value": {
+                "name": "Machinery",
+                "marker": {
+                  "color": "rgb(103, 150, 224)"
+                }
+              },
+              "target": "Machinery"
+            },
+            {
+              "value": {
+                "name": "Road Transport",
+                "marker": {
+                  "color": "rgb(109, 206, 246)"
+                }
+              },
+              "target": "Road Transport"
+            },
+            {
+              "value": {
+                "name": "Rail Transport",
+                "marker": {
+                  "color": "rgb(37, 172, 173)"
+                }
+              },
+              "target": "Rail Transport"
+            },
+            {
+              "value": {
+                "name": "Water Transport",
+                "marker": {
+                  "color": "rgb(124, 198, 202)"
+                }
+              },
+              "target": "Water Transport"
+            },
+            {
+              "value": {
+                "name": "Agriculture",
+                "marker": {
+                  "color": "rgb(81, 137, 52)"
+                }
+              },
+              "target": "Agriculture"
+            },
+            {
+              "value": {
+                "name": "Waste Treatment",
+                "marker": {
+                  "color": "rgb(191, 200, 169)"
+                }
+              },
+              "target": "Waste Treatment"
+            },
+            {
+              "value": {
+                "name": "F-Gases",
+                "marker": {
+                  "color": "rgb(173, 195, 43)"
+                }
+              },
+              "target": "F-Gases"
+            }
+          ],
+          "groupssrc": "MFMechenich:56:a6eb14",
+          "groups": [
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electricity",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "Electric Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "District Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Oil Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Other Heating",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Industry",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Machinery",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Road Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Rail Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Water Transport",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Agriculture",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "Waste Treatment",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases",
+            "F-Gases"
+          ]
+        }
+      ],
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year_Total",
+          "y": "Emissions_Total"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Total Emissions",
+      "type": "scatter",
+      "xsrc": "MFMechenich:56:16f2ff",
+      "x": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "MFMechenich:56:4db8c7",
+      "y": [
+        "3176.1",
+        "3778.3",
+        "3553.3",
+        "3063.7",
+        "3357.2",
+        "3674.5",
+        "3129.0",
+        "3002.3",
+        "3072.8",
+        "2787.3",
+        "2540.7",
+        "2949.2",
+        "2837.3",
+        "2818.2",
+        "2657.8",
+        "2316.2",
+        "2440.6"
+      ],
+      "marker": {
+        "size": 8,
+        "color": "rgb(100, 100, 100)"
+      },
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 18
+      },
+      "text": "City of Helsinki HINKU Emissions"
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2003.9375,
+        2022.0625
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        4031.7067617610755
+      ],
+      "title": {
+        "text": "kt CO2e"
+      },
+      "autorange": true
+    },
+    "margin": {
+      "b": 20,
+      "l": 20,
+      "r": 20,
+      "t": 40,
+      "pad": 0
+    },
+    "barmode": "relative",
+    "autosize": true,
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "type": "bar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "table": [
+          {
+            "type": "table",
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "type": "carpet",
+            "aaxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            }
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatter": [
+          {
+            "type": "scatter",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "histogram": [
+          {
+            "type": "histogram",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "scatter3d": [
+          {
+            "type": "scatter3d",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ]
+      },
+      "layout": {
+        "geo": {
+          "bgcolor": "white",
+          "showland": true,
+          "lakecolor": "white",
+          "landcolor": "white",
+          "showlakes": true,
+          "subunitcolor": "#C8D4E3"
+        },
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "polar": {
+          "bgcolor": "white",
+          "radialaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          },
+          "angularaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "yaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "zaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "ternary": {
+          "aaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "baxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "caxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "bgcolor": "white"
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#19d3f3",
+          "#e763fa",
+          "#fecb52",
+          "#ffa15a",
+          "#ff6692",
+          "#b6e880"
+        ],
+        "hovermode": "closest",
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ]
+        },
+        "plot_bgcolor": "white",
+        "paper_bgcolor": "white",
+        "shapedefaults": {
+          "line": {
+            "width": 0
+          },
+          "opacity": 0.4,
+          "fillcolor": "#506784"
+        },
+        "annotationdefaults": {
+          "arrowhead": 0,
+          "arrowcolor": "#506784",
+          "arrowwidth": 1
+        }
+      },
+      "themeRef": "PLOTLY_WHITE"
+    }
+  }
+}

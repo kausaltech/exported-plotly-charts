@@ -1,0 +1,2048 @@
+{
+  "data": [
+    {
+      "meta": {
+        "columnNames": {
+          "x": "A",
+          "y": "B"
+        }
+      },
+      "mode": "lines",
+      "name": "Albany",
+      "type": "scatter",
+      "xsrc": "MFMechenich:4:daaefb",
+      "x": [
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1912",
+        "1913",
+        "1914",
+        "1915",
+        "1916",
+        "1917",
+        "1918",
+        "1919",
+        "1920",
+        "1921",
+        "1922",
+        "1923",
+        "1924",
+        "1925",
+        "1926",
+        "1927",
+        "1928",
+        "1929",
+        "1930",
+        "1931",
+        "1932",
+        "1933",
+        "1934",
+        "1935",
+        "1936",
+        "1937",
+        "1938",
+        "1939",
+        "1940",
+        "1941",
+        "1942",
+        "1943",
+        "1944",
+        "1945",
+        "1946",
+        "1947",
+        "1948",
+        "1949",
+        "1950",
+        "1951",
+        "1952",
+        "1953",
+        "1954",
+        "1955",
+        "1956",
+        "1957",
+        "1958",
+        "1959",
+        "1960",
+        "1961",
+        "1962",
+        "1963",
+        "1964",
+        "1965",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "MFMechenich:4:fd3851",
+      "y": [
+        "18.5102272727272727",
+        "18.1931818181818182",
+        "19.3146067415730337",
+        "18.7877777777777778",
+        "19.0200000000000000",
+        "18.9938888888888889",
+        "18.2650000000000000",
+        "18.4277777777777778",
+        "19.6911111111111111",
+        "18.9500000000000000",
+        "19.4293103448275862",
+        "19.3517045454545455",
+        "18.6707865168539326",
+        "19.7197802197802198",
+        "20.0344444444444444",
+        "18.2348314606741573",
+        "18.8238888888888889",
+        "18.5697802197802198",
+        "18.9044943820224719",
+        "18.4949438202247191",
+        "18.2972222222222222",
+        "18.0840659340659341",
+        "18.1320224719101124",
+        "18.6550561797752809",
+        "18.9244444444444444",
+        "19.1785714285714286",
+        "19.6533333333333333",
+        "19.4500000000000000",
+        "18.4227777777777778",
+        "18.8648351648351648",
+        "18.4722222222222222",
+        "18.0818965517241379",
+        "18.6333333333333333",
+        "18.9131868131868132",
+        "18.4131578947368421",
+        "18.6616883116883117",
+        "17.9994444444444444",
+        "18.3783333333333333",
+        "18.6050561797752809",
+        "17.8376404494382022",
+        "18.4038888888888889",
+        "18.8631868131868132",
+        "18.9775280898876404",
+        "18.9882022471910112",
+        "18.8162921348314607",
+        "18.4222222222222222",
+        "18.2415730337078652",
+        "19.3573033707865169",
+        "18.8955056179775281",
+        "19.7232142857142857",
+        "19.5954022988505747",
+        "19.8947058823529412",
+        "18.7283333333333333",
+        "18.4923076923076923",
+        "20.1000000000000000",
+        "19.5443820224719101",
+        "19.5685393258426966",
+        "18.7022988505747126",
+        "19.5840909090909091",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "18.8855555555555556",
+        "19.0137362637362637",
+        "18.2283333333333333",
+        "18.3039772727272727",
+        "18.7101123595505618",
+        "18.9752808988764045",
+        "19.2255813953488372",
+        "19.2794444444444444",
+        "19.9183333333333333",
+        "19.8547058823529412",
+        "19.8183908045977011",
+        "19.2380952380952381",
+        "19.8000000000000000",
+        "19.3567073170731707",
+        "18.4197368421052632",
+        "19.1148809523809524",
+        "19.2488095238095238",
+        "19.2135294117647059",
+        "18.9597560975609756",
+        "19.3950617283950617"
+      ]
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "E",
+          "y": "F"
+        }
+      },
+      "mode": "lines",
+      "name": "Denmark",
+      "type": "scatter",
+      "xsrc": "MFMechenich:4:6ddbd3",
+      "x": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "1965",
+        "1966",
+        "1967",
+        "1968",
+        "",
+        "",
+        "",
+        "1972",
+        "",
+        "",
+        "",
+        "1976",
+        "1977",
+        "1978",
+        "1979",
+        "1980",
+        "1981",
+        "1982",
+        "1983"
+      ],
+      "ysrc": "MFMechenich:4:a430ea",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "18.4738372093023256",
+        "18.0316455696202532",
+        "18.9567901234567901",
+        "18.0810606060606061",
+        "",
+        "",
+        "",
+        "20.3618421052631579",
+        "",
+        "",
+        "",
+        "18.5747191011235955",
+        "19.3933333333333333",
+        "19.7077380952380952",
+        "19.2313953488372093",
+        "18.5296703296703297",
+        "18.2404761904761905",
+        "18.9393750000000000",
+        "19.3811688311688312"
+      ],
+      "yaxis": "y2",
+      "stackgroup": null
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "I",
+          "y": "J"
+        }
+      },
+      "mode": "lines",
+      "name": "Jacup",
+      "type": "scatter",
+      "xsrc": "MFMechenich:4:57a039",
+      "x": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "MFMechenich:4:c7ff4e",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "19.3890804597701149",
+        "19.3513333333333333",
+        "19.3539473684210526",
+        "20.4047945205479452",
+        "20.4075757575757576",
+        "19.3928571428571429",
+        "20.0817567567567568",
+        "19.2444444444444444",
+        "18.8235955056179775",
+        "20.3016666666666667",
+        "20.2005494505494505",
+        "19.7561111111111111",
+        "18.9788888888888889",
+        "19.6622222222222222",
+        "19.7890109890109890",
+        "20.3327777777777778",
+        "19.9662500000000000",
+        "20.0781609195402299",
+        "20.9123595505617978",
+        "21.2983333333333333",
+        "20.1688888888888889",
+        "20.9205555555555556",
+        "20.2716666666666667",
+        "19.8695402298850575",
+        "20.1764705882352941",
+        "21.3544943820224719",
+        "20.1917582417582418",
+        "19.7466292134831461",
+        "20.1688888888888889"
+      ],
+      "yaxis": "y3",
+      "stackgroup": null
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "M",
+          "y": "N"
+        }
+      },
+      "mode": "lines",
+      "name": "Mettler",
+      "type": "scatter",
+      "xsrc": "MFMechenich:4:ca15de",
+      "x": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "1967",
+        "1968",
+        "1969",
+        "1970",
+        "1971",
+        "1972",
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1977",
+        "1978",
+        "1979",
+        "1980",
+        "1981",
+        "1982",
+        "1983",
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "",
+        "1993",
+        "1994",
+        "1995",
+        "1996"
+      ],
+      "ysrc": "MFMechenich:4:445946",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "18.6083333333333333",
+        "17.8141791044776119",
+        "18.0508333333333333",
+        "18.5163793103448276",
+        "17.7528089887640449",
+        "19.5637931034482759",
+        "18.7660256410256410",
+        "19.1950000000000000",
+        "18.5912698412698413",
+        "18.9135802469135802",
+        "19.5209302325581395",
+        "19.3463414634146341",
+        "19.2030120481927711",
+        "18.6431250000000000",
+        "17.8614942528735632",
+        "19.0106666666666667",
+        "19.3098765432098765",
+        "18.4372093023255814",
+        "18.7582352941176471",
+        "17.8226744186046512",
+        "18.1535211267605634",
+        "18.6686746987951807",
+        "19.3979729729729730",
+        "18.1779220779220779",
+        "18.6763513513513514",
+        "",
+        "18.4864285714285714",
+        "18.7852112676056338",
+        "18.9753164556962025",
+        "19.2570175438596491"
+      ],
+      "yaxis": "y4",
+      "stackgroup": null
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Q",
+          "y": "R"
+        }
+      },
+      "mode": "lines",
+      "name": "Mount Barker",
+      "type": "scatter",
+      "xsrc": "MFMechenich:4:95537f",
+      "x": [
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1912",
+        "1913",
+        "1914",
+        "1915",
+        "1916",
+        "1917",
+        "1918",
+        "1919",
+        "1920",
+        "1921",
+        "1922",
+        "1923",
+        "1924",
+        "1925",
+        "1926",
+        "1927",
+        "1928",
+        "1929",
+        "1930",
+        "1931",
+        "1932",
+        "1933",
+        "1934",
+        "1935",
+        "1936",
+        "1937",
+        "1938",
+        "1939",
+        "1940",
+        "1941",
+        "1942",
+        "1943",
+        "1944",
+        "1945",
+        "1946",
+        "1947",
+        "1948",
+        "1949",
+        "1950",
+        "1951",
+        "1952",
+        "1953",
+        "1954",
+        "1955",
+        "1956",
+        "1957",
+        "1958",
+        "1959",
+        "1960",
+        "1961",
+        "1962",
+        "1963",
+        "1964",
+        "1965",
+        "1966",
+        "1967",
+        "1968",
+        "1969",
+        "1970",
+        "1971",
+        "1972",
+        "1973",
+        "1974",
+        "1975",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+      ],
+      "ysrc": "MFMechenich:4:9b0299",
+      "y": [
+        "17.9727272727272727",
+        "18.2225274725274725",
+        "19.2433333333333333",
+        "18.3066666666666667",
+        "19.0616666666666667",
+        "19.7263736263736264",
+        "18.7538888888888889",
+        "18.8611111111111111",
+        "19.9783333333333333",
+        "18.2428571428571429",
+        "17.7311111111111111",
+        "18.5472222222222222",
+        "18.4416666666666667",
+        "19.1109890109890110",
+        "19.8866666666666667",
+        "16.5566666666666667",
+        "18.9966666666666667",
+        "18.4426966292134831",
+        "17.9833333333333333",
+        "18.3038888888888889",
+        "17.7811111111111111",
+        "17.8137362637362637",
+        "18.0472222222222222",
+        "18.5450000000000000",
+        "18.8433333333333333",
+        "18.7016483516483516",
+        "19.3273809523809524",
+        "19.3056179775280899",
+        "18.5022222222222222",
+        "18.4736263736263736",
+        "18.5772222222222222",
+        "18.0215909090909091",
+        "18.2005555555555556",
+        "19.0730769230769231",
+        "19.5122222222222222",
+        "18.5177777777777778",
+        "17.6050000000000000",
+        "18.6087912087912088",
+        "18.9200000000000000",
+        "17.9616666666666667",
+        "18.4433333333333333",
+        "18.6029761904761905",
+        "19.2825842696629213",
+        "19.0185393258426966",
+        "18.4637931034482759",
+        "17.8320224719101124",
+        "17.3761111111111111",
+        "19.1566666666666667",
+        "18.7688888888888889",
+        "19.5626373626373626",
+        "19.4900000000000000",
+        "19.9983333333333333",
+        "18.5461111111111111",
+        "18.4532967032967033",
+        "20.6066666666666667",
+        "20.0200000000000000",
+        "19.5450000000000000",
+        "18.3521978021978022",
+        "20.2833333333333333",
+        "19.4488372093023256",
+        "19.8377777777777778",
+        "18.8640449438202247",
+        "19.3859550561797753",
+        "20.0706896551724138",
+        "18.8909090909090909",
+        "21.2088235294117647",
+        "19.7931818181818182",
+        "20.0432584269662921",
+        "20.4377192982456140",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "19.2125000000000000",
+        "18.9565476190476190",
+        "19.7921686746987952",
+        "18.5006097560975610",
+        "19.6108108108108108",
+        "19.0700000000000000",
+        "18.5712643678160920",
+        "19.2420454545454545",
+        "18.9866279069767442",
+        "18.8500000000000000",
+        "20.3855555555555556",
+        "19.7523255813953488",
+        "19.1487654320987654",
+        "19.4475609756097561",
+        "17.9413333333333333",
+        "18.6296296296296296",
+        "19.2762500000000000",
+        "19.2505882352941176",
+        "18.0964285714285714"
+      ],
+      "yaxis": "y5",
+      "stackgroup": null
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "U",
+          "y": "V"
+        }
+      },
+      "mode": "lines",
+      "name": "Rocky Gully",
+      "type": "scatter",
+      "xsrc": "MFMechenich:4:26b87a",
+      "x": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "MFMechenich:4:7bca9f",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "18.6953125000000000",
+        "20.4210843373493976",
+        "20.1115384615384615",
+        "19.7066176470588235",
+        "19.6846666666666667",
+        "18.2876404494382022",
+        "19.3265822784810127",
+        "19.4054878048780488",
+        "19.8236263736263736",
+        "18.5077777777777778",
+        "18.9655555555555556",
+        "19.0833333333333333",
+        "19.5467032967032967",
+        "19.4266666666666667",
+        "19.4369318181818182",
+        "20.3622222222222222",
+        "20.5637362637362637",
+        "20.4577777777777778",
+        "19.2327777777777778",
+        "20.1988888888888889",
+        "19.4626373626373626",
+        "19.0616666666666667",
+        "18.9205555555555556",
+        "20.3988764044943820",
+        "19.6412087912087912",
+        "19.5161111111111111",
+        "19.6588888888888889"
+      ],
+      "yaxis": "y6",
+      "stackgroup": null
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "text": "Mean Summer (December-February) Temperature (\u00b0C)"
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        1907,
+        2022
+      ],
+      "title": {
+        "text": "Year"
+      },
+      "anchor": "y6",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true,
+      "rangeslider": {
+        "range": [
+          1907,
+          2022
+        ],
+        "yaxis": {
+          "rangemode": "match"
+        },
+        "yaxis2": {
+          "rangemode": "match"
+        },
+        "yaxis3": {
+          "rangemode": "match"
+        },
+        "yaxis4": {
+          "rangemode": "match"
+        },
+        "yaxis5": {
+          "rangemode": "match"
+        },
+        "yaxis6": {
+          "rangemode": "match"
+        },
+        "visible": true,
+        "autorange": true
+      }
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        16,
+        21.5
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Albany"
+      },
+      "domain": [
+        0.875,
+        1
+      ],
+      "autorange": false
+    },
+    "yaxis2": {
+      "side": "left",
+      "type": "linear",
+      "range": [
+        16,
+        21.5
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Denmark"
+      },
+      "domain": [
+        0.75,
+        0.875
+      ],
+      "autorange": false,
+      "overlaying": false
+    },
+    "yaxis3": {
+      "side": "left",
+      "type": "linear",
+      "range": [
+        16,
+        21.5
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Jacup"
+      },
+      "domain": [
+        0.625,
+        0.75
+      ],
+      "autorange": false,
+      "overlaying": false
+    },
+    "yaxis4": {
+      "side": "left",
+      "type": "linear",
+      "range": [
+        16,
+        21.5
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Mettler"
+      },
+      "domain": [
+        0.5,
+        0.625
+      ],
+      "autorange": false,
+      "overlaying": false
+    },
+    "yaxis5": {
+      "side": "left",
+      "type": "linear",
+      "range": [
+        16,
+        21.5
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Mount<br>Barker"
+      },
+      "domain": [
+        0.375,
+        0.5
+      ],
+      "autorange": false,
+      "overlaying": false
+    },
+    "yaxis6": {
+      "side": "left",
+      "type": "linear",
+      "range": [
+        16,
+        21.5
+      ],
+      "title": {
+        "font": {
+          "size": 12
+        },
+        "text": "Rocky<br>Gully"
+      },
+      "domain": [
+        0.25,
+        0.375
+      ],
+      "autorange": false,
+      "overlaying": false
+    },
+    "autosize": true,
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "type": "bar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "table": [
+          {
+            "type": "table",
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "type": "carpet",
+            "aaxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            }
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatter": [
+          {
+            "type": "scatter",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "histogram": [
+          {
+            "type": "histogram",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "scatter3d": [
+          {
+            "type": "scatter3d",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ]
+      },
+      "layout": {
+        "geo": {
+          "bgcolor": "white",
+          "showland": true,
+          "lakecolor": "white",
+          "landcolor": "white",
+          "showlakes": true,
+          "subunitcolor": "#C8D4E3"
+        },
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "polar": {
+          "bgcolor": "white",
+          "radialaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          },
+          "angularaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "yaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "zaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "ternary": {
+          "aaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "baxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "caxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "bgcolor": "white"
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#19d3f3",
+          "#e763fa",
+          "#fecb52",
+          "#ffa15a",
+          "#ff6692",
+          "#b6e880"
+        ],
+        "hovermode": "closest",
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ]
+        },
+        "plot_bgcolor": "white",
+        "paper_bgcolor": "white",
+        "shapedefaults": {
+          "line": {
+            "width": 0
+          },
+          "opacity": 0.4,
+          "fillcolor": "#506784"
+        },
+        "annotationdefaults": {
+          "arrowhead": 0,
+          "arrowcolor": "#506784",
+          "arrowwidth": 1
+        }
+      },
+      "themeRef": "PLOTLY_WHITE"
+    }
+  }
+}

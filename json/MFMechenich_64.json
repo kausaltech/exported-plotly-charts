@@ -1,0 +1,979 @@
+{
+  "data": [
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "EN-Benchmark",
+          "text": "EN-Percent"
+        }
+      },
+      "mode": "markers",
+      "name": "Energy Use by Benchmarking Buildings (Extrapolated)",
+      "type": "bar",
+      "xsrc": "MFMechenich:63:90d43d",
+      "x": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "MFMechenich:63:b58f0e",
+      "y": [
+        "12409029",
+        "11464772",
+        "11658628"
+      ],
+      "marker": {
+        "color": "rgb(114, 173, 70)"
+      },
+      "textsrc": "MFMechenich:63:d0a74f",
+      "text": [
+        "51.8",
+        "48.4",
+        "49.2"
+      ],
+      "hoverlabel": {
+        "namelength": 0
+      },
+      "legendgroup": 1,
+      "orientation": "v",
+      "hovertemplate": "<b>Benchmarking Buildings</b><br>%{y:,i} MMBtu (%{text}%)"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "EN-All",
+          "text": ""
+        }
+      },
+      "name": "Energy Use by All Buildings in City (Commercial &amp; Residential)",
+      "type": "bar",
+      "xsrc": "MFMechenich:63:90d43d",
+      "x": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "MFMechenich:63:186248",
+      "y": [
+        "23971479",
+        "23688200",
+        "23688200"
+      ],
+      "marker": {
+        "color": "rgb(68, 114, 197)"
+      },
+      "hoverlabel": {
+        "namelength": 0
+      },
+      "legendgroup": 1,
+      "orientation": "v",
+      "hovertemplate": "<b>All Buildings</b><br>%{y:,i} MMBtu"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "cells": {
+            "fill": {
+              "color": "U"
+            },
+            "values": "Year - H - I"
+          },
+          "header": {
+            "fill": {
+              "color": "T"
+            },
+            "values": "Energy-Headers"
+          }
+        }
+      },
+      "mode": "markers",
+      "name": "Energy Use",
+      "type": "table",
+      "cells": {
+        "fill": {
+          "meta": {
+            "columnNames": {
+              "color": "U"
+            }
+          },
+          "colorsrc": "MFMechenich:63:28181f*",
+          "color": [
+            [
+              "F6F6F6"
+            ]
+          ]
+        },
+        "meta": {
+          "columnNames": {
+            "values": "Year - EN-Benchmark-T - EN-All-T"
+          }
+        },
+        "valuessrc": "MFMechenich:63:90d43d,ea995f,9c4f7a*",
+        "values": [
+          [
+            "2020",
+            "2021",
+            "2022"
+          ],
+          [
+            "12,409,029   (51.8%)",
+            "11,464,772   (48.4%)",
+            "11,658,628   (49.2%)"
+          ],
+          [
+            "23,971,479",
+            "23,688,200",
+            "23,688,200"
+          ]
+        ]
+      },
+      "domain": {
+        "x": [
+          0,
+          1
+        ],
+        "y": [
+          0.54,
+          0.66
+        ]
+      },
+      "header": {
+        "fill": {
+          "meta": {
+            "columnNames": {
+              "color": "T"
+            }
+          },
+          "colorsrc": "MFMechenich:63:5552cd",
+          "color": [
+            "DCDCDC"
+          ]
+        },
+        "meta": {
+          "columnNames": {
+            "values": "EN-Headers"
+          }
+        },
+        "valuessrc": "MFMechenich:63:756229",
+        "values": [
+          "Year",
+          "Energy Use, Benchmarking (MMBtu)",
+          "Energy Use, All (MMBtu)"
+        ]
+      },
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "EM-Benchmark",
+          "text": "EM-Percent"
+        }
+      },
+      "name": "GHG Emissions from Benchmarking Buildings (Extrapolated)",
+      "type": "bar",
+      "xsrc": "MFMechenich:63:90d43d",
+      "x": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "MFMechenich:63:0b552b",
+      "y": [
+        "507553",
+        "609967",
+        "585732"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(238, 126, 49)"
+      },
+      "textsrc": "MFMechenich:63:51c182",
+      "text": [
+        "20.2",
+        "23.2",
+        "22.3"
+      ],
+      "hoverlabel": {
+        "namelength": 0
+      },
+      "legendgroup": 2,
+      "orientation": "v",
+      "hovertemplate": "<b>Benchmarking Buildings</b><br>%{y:,i} Tonnes CO2e (%{text}%)"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "EM-All"
+        }
+      },
+      "name": "Citywide GHG Emissions",
+      "type": "bar",
+      "xsrc": "MFMechenich:63:90d43d",
+      "x": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "ysrc": "MFMechenich:63:233c87",
+      "y": [
+        "2515451",
+        "2629407",
+        "2629407"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(255, 191, 4)"
+      },
+      "hoverlabel": {
+        "namelength": 0
+      },
+      "legendgroup": 2,
+      "orientation": "v",
+      "hovertemplate": "<b>All Buildings</b><br>%{y:,i} Tonnes CO2e"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "cells": {
+            "fill": {
+              "color": "U"
+            },
+            "values": "Year - EM-Benchmark-T - EM-All-T"
+          },
+          "header": {
+            "fill": {
+              "color": "T"
+            },
+            "values": "EM-Headers"
+          }
+        }
+      },
+      "name": "GHG Emissions",
+      "type": "table",
+      "cells": {
+        "fill": {
+          "meta": {
+            "columnNames": {
+              "color": "U"
+            }
+          },
+          "colorsrc": "MFMechenich:63:28181f*",
+          "color": [
+            [
+              "F6F6F6"
+            ]
+          ]
+        },
+        "meta": {
+          "columnNames": {
+            "values": "Year - EM-Benchmark-T - EM-All-T"
+          }
+        },
+        "valuessrc": "MFMechenich:63:90d43d,42f9f5,c6250b*",
+        "values": [
+          [
+            "2020",
+            "2021",
+            "2022"
+          ],
+          [
+            "507,553   (20.2%)",
+            "609,967   (23.2%)",
+            "585,732   (22.3%)"
+          ],
+          [
+            "2,515,451",
+            "2,629,407",
+            "2,629,407"
+          ]
+        ]
+      },
+      "domain": {
+        "y": [
+          0,
+          0.12
+        ]
+      },
+      "header": {
+        "fill": {
+          "meta": {
+            "columnNames": {
+              "color": "T"
+            }
+          },
+          "colorsrc": "MFMechenich:63:5552cd",
+          "color": [
+            "DCDCDC"
+          ]
+        },
+        "meta": {
+          "columnNames": {
+            "values": "EM-Headers"
+          }
+        },
+        "valuessrc": "MFMechenich:63:f1affc",
+        "values": [
+          "Year",
+          "Emissions, Benchmarking (T CO2e)",
+          "Emissions, All (T CO2e)"
+        ]
+      },
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "font": {
+      "color": "rgb(0, 0, 0)"
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2019.5,
+        2022.5
+      ],
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        25233135.789473683
+      ],
+      "title": {
+        "text": "Energy Use (MMBtu)"
+      },
+      "domain": [
+        0.75,
+        1
+      ],
+      "autorange": true
+    },
+    "bargap": 0.30000000000000004,
+    "legend": {
+      "x": 0,
+      "y": 0.73,
+      "bgcolor": "rgba(255, 255, 255, 0.01)",
+      "yanchor": "top",
+      "tracegroupgap": 363
+    },
+    "margin": {
+      "b": 20,
+      "l": 20,
+      "r": 20,
+      "t": 40,
+      "pad": 0
+    },
+    "xaxis2": {
+      "side": "bottom",
+      "type": "linear",
+      "range": [
+        2019.5,
+        2022.5
+      ],
+      "anchor": "y2",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true,
+      "overlaying": false
+    },
+    "yaxis2": {
+      "side": "left",
+      "type": "linear",
+      "range": [
+        0,
+        2767796.842105263
+      ],
+      "title": {
+        "text": "GHG Emissions (Tonnes CO2e)"
+      },
+      "anchor": "x2",
+      "domain": [
+        0.21,
+        0.46
+      ],
+      "autorange": true,
+      "overlaying": false
+    },
+    "autosize": true,
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "type": "bar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "table": [
+          {
+            "type": "table",
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "type": "carpet",
+            "aaxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            }
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatter": [
+          {
+            "type": "scatter",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "histogram": [
+          {
+            "type": "histogram",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "scatter3d": [
+          {
+            "type": "scatter3d",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ]
+      },
+      "layout": {
+        "geo": {
+          "bgcolor": "white",
+          "showland": true,
+          "lakecolor": "white",
+          "landcolor": "white",
+          "showlakes": true,
+          "subunitcolor": "#C8D4E3"
+        },
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "polar": {
+          "bgcolor": "white",
+          "radialaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          },
+          "angularaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "yaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "zaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "ternary": {
+          "aaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "baxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "caxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "bgcolor": "white"
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#19d3f3",
+          "#e763fa",
+          "#fecb52",
+          "#ffa15a",
+          "#ff6692",
+          "#b6e880"
+        ],
+        "hovermode": "closest",
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ]
+        },
+        "plot_bgcolor": "white",
+        "paper_bgcolor": "white",
+        "shapedefaults": {
+          "line": {
+            "width": 0
+          },
+          "opacity": 0.4,
+          "fillcolor": "#506784"
+        },
+        "annotationdefaults": {
+          "arrowhead": 0,
+          "arrowcolor": "#506784",
+          "arrowwidth": 1
+        }
+      },
+      "themeRef": "PLOTLY_WHITE"
+    },
+    "annotations": [
+      {
+        "x": 0.5,
+        "y": 1,
+        "font": {
+          "size": 14,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "<b>Energy Use of Benchmarking Buildings Compared to All Commerical and Residential Buildings</b>",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center",
+        "yanchor": "bottom",
+        "showarrow": false
+      },
+      {
+        "x": 0.5,
+        "y": 0.49,
+        "font": {
+          "size": 14
+        },
+        "text": "<b>Greenhouse Gas Emissions from Benchmarking Buildings Compared to Citywide Emissions</b>",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center",
+        "yanchor": "top",
+        "showarrow": false
+      }
+    ]
+  }
+}

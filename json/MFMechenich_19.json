@@ -1,0 +1,1264 @@
+{
+  "data": [
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Alb-T"
+        }
+      },
+      "mode": "markers",
+      "name": "Albany Emissions",
+      "type": "bar",
+      "xsrc": "MFMechenich:18:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:18:5c2da9",
+      "y": [
+        "68859.8095",
+        "66699.2436",
+        "65384.9461",
+        "64099.3496",
+        "63308.7606",
+        "62636.2933",
+        "61955.5509",
+        "61266.5334",
+        "60569.2409",
+        "59863.6733",
+        "59149.8307",
+        "58427.713",
+        "57697.3203",
+        "56958.6525",
+        "56211.7096",
+        "55456.4917",
+        "54692.9988",
+        "53921.2308",
+        "53141.1877",
+        "52352.8696",
+        "51556.2765",
+        "50751.4083",
+        "49938.265",
+        "49116.8467",
+        "48287.1533",
+        "47449.1849",
+        "46602.9414",
+        "45748.4229",
+        "44885.6293",
+        "44014.5606"
+      ],
+      "marker": {
+        "color": "rgb(50, 50, 50)"
+      },
+      "hoverinfo": "none",
+      "legendgroup": "",
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Den-T"
+        }
+      },
+      "name": "Denmark Emissions",
+      "type": "bar",
+      "xsrc": "MFMechenich:18:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:18:1be069",
+      "y": [
+        "8101.15405",
+        "7846.96983",
+        "7692.3466",
+        "7541.09995",
+        "7448.08949",
+        "7368.97568",
+        "7288.88834",
+        "7207.82746",
+        "7125.79304",
+        "7042.78509",
+        "6958.80361",
+        "6873.84859",
+        "6787.92003",
+        "6701.01794",
+        "6613.14231",
+        "6524.29315",
+        "6434.47045",
+        "6343.67421",
+        "6251.90444",
+        "6159.16113",
+        "6065.44429",
+        "5970.75391",
+        "5875.09",
+        "5778.45255",
+        "5680.84156",
+        "5582.25704",
+        "5482.69899",
+        "5382.16739",
+        "5280.66227",
+        "5178.1836"
+      ],
+      "marker": {
+        "color": "rgb(50, 50, 50)"
+      },
+      "hoverinfo": "none",
+      "legendgroup": "",
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Pla-T"
+        }
+      },
+      "name": "Plantagenet Emissions",
+      "type": "bar",
+      "xsrc": "MFMechenich:18:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:18:ba13a2",
+      "y": [
+        "5063.22128",
+        "4904.35614",
+        "4807.71663",
+        "4713.18747",
+        "4655.05593",
+        "4605.6098",
+        "4555.55521",
+        "4504.89216",
+        "4453.62065",
+        "4401.74068",
+        "4349.25226",
+        "4296.15537",
+        "4242.45002",
+        "4188.13621",
+        "4133.21394",
+        "4077.68322",
+        "4021.54403",
+        "3964.79638",
+        "3907.44027",
+        "3849.47571",
+        "3790.90268",
+        "3731.72119",
+        "3671.93125",
+        "3611.53284",
+        "3550.52598",
+        "3488.91065",
+        "3426.68687",
+        "3363.85462",
+        "3300.41392",
+        "3236.36475"
+      ],
+      "marker": {
+        "color": "rgb(50, 50, 50)"
+      },
+      "hoverinfo": "none",
+      "legendgroup": "",
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Jer-T"
+        }
+      },
+      "name": "Jerramungup Emissions",
+      "type": "bar",
+      "xsrc": "MFMechenich:18:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:18:aaccd5",
+      "y": [
+        "1012.64426",
+        "980.871229",
+        "961.543325",
+        "942.637494",
+        "931.011186",
+        "921.12196",
+        "911.111042",
+        "900.978432",
+        "890.724131",
+        "880.348137",
+        "869.850451",
+        "859.231073",
+        "848.490004",
+        "837.627242",
+        "826.642789",
+        "815.536643",
+        "804.308806",
+        "792.959276",
+        "781.488055",
+        "769.895142",
+        "758.180536",
+        "746.344239",
+        "734.38625",
+        "722.306569",
+        "710.105195",
+        "697.78213",
+        "685.337373",
+        "672.770924",
+        "660.082783",
+        "647.27295"
+      ],
+      "marker": {
+        "color": "rgb(50, 50, 50)"
+      },
+      "hoverinfo": "none",
+      "legendgroup": "",
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Alb-R"
+        }
+      },
+      "name": "Albany Action Impact",
+      "type": "bar",
+      "xsrc": "MFMechenich:18:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:18:be4bd1",
+      "y": [
+        "-859.80945",
+        "-3102.6407",
+        "-5258.8305",
+        "-7332.3328",
+        "-9394.7116",
+        "-11425.858",
+        "-13411.854",
+        "-15351.868",
+        "-17245.065",
+        "-19090.613",
+        "-20547.546",
+        "-21400.487",
+        "-22224.467",
+        "-23019.028",
+        "-23783.711",
+        "-24518.059",
+        "-25221.613",
+        "-25893.916",
+        "-26534.51",
+        "-27142.937",
+        "-27356.75",
+        "-26951.04",
+        "-26541.024",
+        "-26126.704",
+        "-25708.079",
+        "-25285.15",
+        "-24857.916",
+        "-24426.377",
+        "-23990.533",
+        "-23550.385"
+      ],
+      "marker": {
+        "color": "rgb(220, 220, 220)"
+      },
+      "hoverinfo": "none",
+      "legendgroup": "",
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Den-R"
+        }
+      },
+      "name": "Denmark Action Impact",
+      "type": "bar",
+      "xsrc": "MFMechenich:18:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:18:e59b89",
+      "y": [
+        "-101.15405",
+        "-365.01655",
+        "-618.68594",
+        "-862.62739",
+        "-1105.2602",
+        "-1344.2185",
+        "-1577.8652",
+        "-1806.1021",
+        "-2028.8312",
+        "-2245.9544",
+        "-2417.3584",
+        "-2517.7044",
+        "-2614.6432",
+        "-2708.1209",
+        "-2798.0836",
+        "-2884.4775",
+        "-2967.2486",
+        "-3046.3431",
+        "-3121.7071",
+        "-3193.2867",
+        "-3218.4412",
+        "-3170.7105",
+        "-3122.4734",
+        "-3073.7299",
+        "-3024.4799",
+        "-2974.7235",
+        "-2924.4607",
+        "-2873.6914",
+        "-2822.4157",
+        "-2770.6335"
+      ],
+      "marker": {
+        "color": "rgb(220, 220, 220)"
+      },
+      "hoverinfo": "none",
+      "legendgroup": "",
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Pla-R"
+        }
+      },
+      "name": "Plantagenet Action Impact",
+      "type": "bar",
+      "xsrc": "MFMechenich:18:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:18:971a1a",
+      "y": [
+        "-63.221283",
+        "-228.13535",
+        "-386.67871",
+        "-539.14212",
+        "-690.78762",
+        "-840.13658",
+        "-986.16573",
+        "-1128.8138",
+        "-1268.0195",
+        "-1403.7215",
+        "-1510.849",
+        "-1573.5652",
+        "-1634.152",
+        "-1692.5756",
+        "-1748.8023",
+        "-1802.7984",
+        "-1854.5304",
+        "-1903.9644",
+        "-1951.0669",
+        "-1995.8042",
+        "-2011.5258",
+        "-1981.6941",
+        "-1951.5459",
+        "-1921.0812",
+        "-1890.2999",
+        "-1859.2022",
+        "-1827.7879",
+        "-1796.0571",
+        "-1764.0098",
+        "-1731.646"
+      ],
+      "marker": {
+        "color": "rgb(220, 220, 220)"
+      },
+      "hoverinfo": "none",
+      "legendgroup": "",
+      "orientation": "v"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Jer-R"
+        }
+      },
+      "name": "Jerramungup Action Impact",
+      "type": "bar",
+      "xsrc": "MFMechenich:18:700796",
+      "x": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033",
+        "2034",
+        "2035",
+        "2036",
+        "2037",
+        "2038",
+        "2039",
+        "2040",
+        "2041",
+        "2042",
+        "2043",
+        "2044",
+        "2045",
+        "2046",
+        "2047",
+        "2048",
+        "2049",
+        "2050"
+      ],
+      "ysrc": "MFMechenich:18:f4085a",
+      "y": [
+        "-12.644257",
+        "-45.627069",
+        "-77.335742",
+        "-107.82842",
+        "-138.15752",
+        "-168.02732",
+        "-197.23315",
+        "-225.76276",
+        "-253.6039",
+        "-280.7443",
+        "-302.1698",
+        "-314.71305",
+        "-326.8304",
+        "-338.51511",
+        "-349.76045",
+        "-360.55969",
+        "-370.90608",
+        "-380.79289",
+        "-390.21339",
+        "-399.16083",
+        "-402.30515",
+        "-396.33882",
+        "-390.30918",
+        "-384.21624",
+        "-378.05999",
+        "-371.84044",
+        "-365.55758",
+        "-359.21142",
+        "-352.80196",
+        "-346.32919"
+      ],
+      "marker": {
+        "color": "rgb(220, 220, 220)"
+      },
+      "hoverinfo": "none",
+      "legendgroup": "",
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "x": 0.05,
+      "font": {
+        "size": 24
+      },
+      "text": "Business Emissions"
+    },
+    "xaxis": {
+      "type": "linear",
+      "dtick": 5,
+      "range": [
+        2020.5,
+        2050.5
+      ],
+      "title": {
+        "text": "<br>"
+      },
+      "tickmode": "linear",
+      "autorange": true,
+      "automargin": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        87407.18851578947
+      ],
+      "title": {
+        "text": "Emissions (t CO2e)"
+      },
+      "autorange": true
+    },
+    "bargap": 0.30000000000000004,
+    "legend": {
+      "x": 0,
+      "y": -0.1,
+      "font": {
+        "size": 12
+      },
+      "title": {
+        "text": "<b>Emissions &amp; Action Impact by Region</b><br>&nbsp;&nbsp;Click each legend item to turn a region's<br>\n&nbsp;emissions or actions on/off."
+      },
+      "valign": "middle",
+      "xanchor": "left",
+      "yanchor": "top",
+      "traceorder": "normal",
+      "borderwidth": 0,
+      "orientation": "v"
+    },
+    "margin": {
+      "b": 50,
+      "l": 50,
+      "r": 10,
+      "t": 50,
+      "pad": 0
+    },
+    "barmode": "stack",
+    "modebar": {
+      "orientation": "h"
+    },
+    "autosize": true,
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "type": "bar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "table": [
+          {
+            "type": "table",
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "type": "carpet",
+            "aaxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            }
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatter": [
+          {
+            "type": "scatter",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "histogram": [
+          {
+            "type": "histogram",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "scatter3d": [
+          {
+            "type": "scatter3d",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ]
+      },
+      "layout": {
+        "geo": {
+          "bgcolor": "white",
+          "showland": true,
+          "lakecolor": "white",
+          "landcolor": "white",
+          "showlakes": true,
+          "subunitcolor": "#C8D4E3"
+        },
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "polar": {
+          "bgcolor": "white",
+          "radialaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          },
+          "angularaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "yaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "zaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "ternary": {
+          "aaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "baxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "caxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "bgcolor": "white"
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#19d3f3",
+          "#e763fa",
+          "#fecb52",
+          "#ffa15a",
+          "#ff6692",
+          "#b6e880"
+        ],
+        "hovermode": "closest",
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ]
+        },
+        "plot_bgcolor": "white",
+        "paper_bgcolor": "white",
+        "shapedefaults": {
+          "line": {
+            "width": 0
+          },
+          "opacity": 0.4,
+          "fillcolor": "#506784"
+        },
+        "annotationdefaults": {
+          "arrowhead": 0,
+          "arrowcolor": "#506784",
+          "arrowwidth": 1
+        }
+      },
+      "themeRef": "PLOTLY_WHITE"
+    },
+    "plot_bgcolor": "rgba(255, 255, 255, 0.01)",
+    "paper_bgcolor": "rgba(255, 255, 255, 0.01)"
+  }
+}

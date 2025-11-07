@@ -1,0 +1,1138 @@
+{
+  "data": [
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Target",
+          "y": "Priority Area"
+        }
+      },
+      "type": "bar",
+      "xsrc": "MFMechenich:91:962fe4",
+      "x": [
+        "710000",
+        "",
+        "",
+        null,
+        null,
+        "",
+        "810000",
+        "",
+        null,
+        null,
+        null,
+        "500000"
+      ],
+      "ysrc": "MFMechenich:91:4fc5c8",
+      "y": [
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 3 (Transition to Sustainable Transport)",
+        "Priority Area 3 (Transition to Sustainable Transport)",
+        "Priority Area 3 (Transition to Sustainable Transport)"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y3",
+      "transforms": [
+        {
+          "meta": {
+            "columnNames": {
+              "groups": "Priority Area"
+            }
+          },
+          "type": "groupby",
+          "styles": [
+            {
+              "value": {
+                "name": "<br>",
+                "marker": {
+                  "color": "rgb(78, 121, 167)",
+                  "opacity": 0.4
+                },
+                "hoverinfo": "x+y+name",
+                "showlegend": false,
+                "hovertemplate": "<b>%{y}</b><br>Target: %{x:,I} tonnes CO2e"
+              },
+              "target": "Priority Area 1 (Support Low Carbon Living)"
+            },
+            {
+              "value": {
+                "name": "<br>",
+                "marker": {
+                  "color": "rgb(242, 142, 43)",
+                  "opacity": 0.4
+                },
+                "showlegend": false,
+                "hovertemplate": "<b>%{y}</b><br>Target: %{x:,I} tonnes CO2e"
+              },
+              "target": "Priority Area 2 (Future Proof Business and Industry)"
+            },
+            {
+              "value": {
+                "name": "<br>",
+                "marker": {
+                  "color": "rgb(89, 161, 79)",
+                  "opacity": 0.4
+                },
+                "showlegend": false,
+                "hovertemplate": "<b>%{y}</b><br>Target: %{x:,I} tonnes CO2e"
+              },
+              "target": "Priority Area 3 (Transition to Sustainable Transport)"
+            }
+          ],
+          "enabled": true,
+          "groupssrc": "MFMechenich:91:4fc5c8",
+          "groups": [
+            "Priority Area 1 (Support Low Carbon Living)",
+            "Priority Area 1 (Support Low Carbon Living)",
+            "Priority Area 1 (Support Low Carbon Living)",
+            "Priority Area 1 (Support Low Carbon Living)",
+            "Priority Area 1 (Support Low Carbon Living)",
+            "Priority Area 1 (Support Low Carbon Living)",
+            "Priority Area 2 (Future Proof Business and Industry)",
+            "Priority Area 2 (Future Proof Business and Industry)",
+            "Priority Area 2 (Future Proof Business and Industry)",
+            "Priority Area 2 (Future Proof Business and Industry)",
+            "Priority Area 2 (Future Proof Business and Industry)",
+            "Priority Area 3 (Transition to Sustainable Transport)",
+            "Priority Area 3 (Transition to Sustainable Transport)",
+            "Priority Area 3 (Transition to Sustainable Transport)"
+          ]
+        }
+      ],
+      "orientation": "h"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Period Total",
+          "y": "Priority Area",
+          "text": "Period"
+        }
+      },
+      "type": "bar",
+      "xsrc": "MFMechenich:91:71bfcd",
+      "x": [
+        "7445",
+        "9853",
+        "14567",
+        "16524",
+        "20200",
+        "23385",
+        "16023",
+        "24232",
+        "36264",
+        "47745",
+        "60302",
+        "20.4",
+        "21.97",
+        "44.03"
+      ],
+      "ysrc": "MFMechenich:91:4fc5c8",
+      "y": [
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 3 (Transition to Sustainable Transport)",
+        "Priority Area 3 (Transition to Sustainable Transport)",
+        "Priority Area 3 (Transition to Sustainable Transport)"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y",
+      "textsrc": "MFMechenich:91:c31cb3",
+      "text": [
+        "Jan-Jun 2022",
+        "Jul-Dec 2022",
+        "Jan-Jun 2023",
+        "Jul-Dec 2023",
+        "Jan-Jun 2024",
+        "Jul-Dec 2024",
+        "Jul-Dec 2022",
+        "Jan-Jun 2023",
+        "Jul-Dec 2023",
+        "Jan-Jun 2024",
+        "Jul-Dec 2024",
+        "Jan-Jun 2023",
+        "Jul-Dec 2023",
+        "Jan-Jun 2024"
+      ],
+      "transforms": [
+        {
+          "meta": {
+            "columnNames": {
+              "groups": "Priority Area"
+            }
+          },
+          "type": "groupby",
+          "styles": [
+            {
+              "value": {
+                "name": "<br>",
+                "marker": {
+                  "line": {
+                    "color": "rgb(255, 255, 255)",
+                    "width": 1
+                  },
+                  "color": "rgb(78, 121, 167)",
+                  "opacity": 1
+                },
+                "showlegend": false,
+                "hovertemplate": "<b>%{y}</b><br>%{text}<br>Period Savings: %{x:,I} tonnes CO2e"
+              },
+              "target": "Priority Area 1 (Support Low Carbon Living)"
+            },
+            {
+              "value": {
+                "name": "<br>",
+                "marker": {
+                  "line": {
+                    "color": "rgb(255, 255, 255)",
+                    "width": 1
+                  },
+                  "color": "rgb(242, 142, 43)",
+                  "opacity": 1
+                },
+                "showlegend": false,
+                "hovertemplate": "<b>%{y}</b><br>%{text}<br>Period Savings: %{x:,I} tonnes CO2e"
+              },
+              "target": "Priority Area 2 (Future Proof Business and Industry)"
+            },
+            {
+              "value": {
+                "name": "<br>",
+                "marker": {
+                  "line": {
+                    "color": "rgb(255, 255, 255)",
+                    "width": 1
+                  },
+                  "color": "rgb(89, 161, 79)",
+                  "opacity": 1
+                },
+                "showlegend": false,
+                "hovertemplate": "<b>%{y}</b><br>%{text}<br>Period Savings: %{x:,I} tonnes CO2e"
+              },
+              "target": "Priority Area 3 (Transition to Sustainable Transport)"
+            }
+          ],
+          "groupssrc": "MFMechenich:91:4fc5c8",
+          "groups": [
+            "Priority Area 1 (Support Low Carbon Living)",
+            "Priority Area 1 (Support Low Carbon Living)",
+            "Priority Area 1 (Support Low Carbon Living)",
+            "Priority Area 1 (Support Low Carbon Living)",
+            "Priority Area 1 (Support Low Carbon Living)",
+            "Priority Area 1 (Support Low Carbon Living)",
+            "Priority Area 2 (Future Proof Business and Industry)",
+            "Priority Area 2 (Future Proof Business and Industry)",
+            "Priority Area 2 (Future Proof Business and Industry)",
+            "Priority Area 2 (Future Proof Business and Industry)",
+            "Priority Area 2 (Future Proof Business and Industry)",
+            "Priority Area 3 (Transition to Sustainable Transport)",
+            "Priority Area 3 (Transition to Sustainable Transport)",
+            "Priority Area 3 (Transition to Sustainable Transport)"
+          ]
+        }
+      ],
+      "orientation": "h"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Target",
+          "y": "Priority Area"
+        }
+      },
+      "mode": "markers",
+      "name": "Target",
+      "type": "scatter",
+      "xsrc": "MFMechenich:91:962fe4",
+      "x": [
+        "710000",
+        "",
+        "",
+        null,
+        null,
+        "",
+        "810000",
+        "",
+        null,
+        null,
+        null,
+        "500000"
+      ],
+      "ysrc": "MFMechenich:91:4fc5c8",
+      "y": [
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 3 (Transition to Sustainable Transport)",
+        "Priority Area 3 (Transition to Sustainable Transport)",
+        "Priority Area 3 (Transition to Sustainable Transport)"
+      ],
+      "xaxis": "x2",
+      "marker": {
+        "size": 10,
+        "color": "rgb(85, 85, 85)",
+        "symbol": "x"
+      },
+      "hoverlabel": {
+        "namelength": 0
+      },
+      "stackgroup": null,
+      "hovertemplate": "<b>%{y}</b><br>Target: %{x:,I} tonnes CO2e"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Cumulative Savings",
+          "y": "Priority Area"
+        }
+      },
+      "mode": "markers",
+      "name": "Total Cumulative<br>Savings",
+      "type": "scatter",
+      "xsrc": "MFMechenich:91:3d28d8",
+      "x": [
+        "91973",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "184566",
+        null,
+        null,
+        null,
+        null,
+        "86.4"
+      ],
+      "ysrc": "MFMechenich:91:4fc5c8",
+      "y": [
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 1 (Support Low Carbon Living)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 2 (Future Proof Business and Industry)",
+        "Priority Area 3 (Transition to Sustainable Transport)",
+        "Priority Area 3 (Transition to Sustainable Transport)",
+        "Priority Area 3 (Transition to Sustainable Transport)"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y",
+      "marker": {
+        "size": 10,
+        "color": "rgb(85, 85, 85)"
+      },
+      "hoverlabel": {
+        "namelength": 0
+      },
+      "orientation": "v",
+      "hovertemplate": "<b>%{y}</b><br>Total Cumulative Savings: %{x:,I} tonnes CO2e"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Area 1",
+          "y": "Intervention"
+        }
+      },
+      "mode": "markers",
+      "name": "Priority Area 1",
+      "type": "bar",
+      "xsrc": "MFMechenich:91:5a9e03",
+      "x": [
+        "53527",
+        "24671",
+        "13775"
+      ],
+      "ysrc": "MFMechenich:91:6deece",
+      "y": [
+        "Construction above Minimum NatHERS Requirement*<br><sup><i>*Data collected annually through April 2024</i></sup>",
+        "Residential Appliance Selection",
+        "Solar PV from Planning",
+        "Victorian Energy Upgrades (VEU) Program",
+        "Business Energy Efficiency and Electrification",
+        "Business PV",
+        "EV Charging Infrastructure"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(78, 121, 167)"
+      },
+      "hoverlabel": {
+        "namelength": 0
+      },
+      "showlegend": false,
+      "stackgroup": null,
+      "orientation": "h",
+      "hovertemplate": "<b>%{y}</b><br>Total Cumulative Savings: %{x:,I} tonnes CO2e"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Area 2",
+          "y": "Intervention"
+        }
+      },
+      "name": "Priority Area 2",
+      "type": "bar",
+      "xsrc": "MFMechenich:91:3393f6",
+      "x": [
+        null,
+        null,
+        "",
+        "91458",
+        "51528",
+        "41580"
+      ],
+      "ysrc": "MFMechenich:91:6deece",
+      "y": [
+        "Construction above Minimum NatHERS Requirement*<br><sup><i>*Data collected annually through April 2024</i></sup>",
+        "Residential Appliance Selection",
+        "Solar PV from Planning",
+        "Victorian Energy Upgrades (VEU) Program",
+        "Business Energy Efficiency and Electrification",
+        "Business PV",
+        "EV Charging Infrastructure"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(242, 142, 43)"
+      },
+      "hoverlabel": {
+        "namelength": 0
+      },
+      "showlegend": false,
+      "orientation": "h",
+      "hovertemplate": "<b>%{y}</b><br>Total Cumulative Savings: %{x:,I} tonnes CO2e"
+    },
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Area 3",
+          "y": "Intervention"
+        }
+      },
+      "mode": "markers",
+      "name": "Priority Area 3",
+      "type": "bar",
+      "xsrc": "MFMechenich:91:f8f3db",
+      "x": [
+        null,
+        null,
+        "",
+        "",
+        "",
+        "",
+        "86.4"
+      ],
+      "ysrc": "MFMechenich:91:6deece",
+      "y": [
+        "Construction above Minimum NatHERS Requirement*<br><sup><i>*Data collected annually through April 2024</i></sup>",
+        "Residential Appliance Selection",
+        "Solar PV from Planning",
+        "Victorian Energy Upgrades (VEU) Program",
+        "Business Energy Efficiency and Electrification",
+        "Business PV",
+        "EV Charging Infrastructure"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(89, 161, 79)"
+      },
+      "hoverlabel": {
+        "namelength": 0
+      },
+      "showlegend": false,
+      "orientation": "h",
+      "hovertemplate": "<b>%{y}</b><br>Total Cumulative Savings: %{x:,I} tonnes CO2e"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 18,
+        "color": "rgb(0, 0, 0)"
+      },
+      "text": "<b>Greenhouse Gas Savings Attributable to Council Interventions (2022-2024)</b>"
+    },
+    "yaxis": {
+      "type": "category",
+      "range": [
+        2.5,
+        -0.5
+      ],
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "<b>Priority Area<br>&nbsp;</b>"
+      },
+      "domain": [
+        0.65,
+        1
+      ],
+      "tickfont": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "autorange": false,
+      "automargin": true,
+      "overlaying": "y3",
+      "ticksuffix": ""
+    },
+    "legend": {
+      "x": 1,
+      "y": 1,
+      "font": {
+        "color": "rgb(0, 0, 0)"
+      }
+    },
+    "margin": {
+      "b": 60,
+      "l": 20,
+      "r": 20,
+      "t": 60,
+      "pad": 0
+    },
+    "xaxis2": {
+      "side": "bottom",
+      "type": "linear",
+      "range": [
+        -30000,
+        870000
+      ],
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "<b>Tonnes CO2e Saved</b>"
+      },
+      "anchor": "y2",
+      "tickfont": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "autorange": false,
+      "gridcolor": "rgb(220, 220, 220)",
+      "overlaying": false
+    },
+    "yaxis2": {
+      "side": "left",
+      "type": "category",
+      "range": [
+        6.5,
+        -0.5
+      ],
+      "title": {
+        "font": {
+          "size": 14,
+          "color": "rgb(0, 0, 0)"
+        },
+        "text": "<b>Intervention<br>&nbsp;</b>"
+      },
+      "anchor": "x2",
+      "domain": [
+        0,
+        0.55
+      ],
+      "tickfont": {
+        "color": "rgb(0, 0, 0)"
+      },
+      "autorange": false,
+      "overlaying": false,
+      "ticksuffix": ""
+    },
+    "yaxis3": {
+      "side": "left",
+      "type": "category",
+      "range": [
+        2.5,
+        -0.5
+      ],
+      "domain": [
+        0.65,
+        1
+      ],
+      "autorange": false,
+      "overlaying": false,
+      "showticklabels": false
+    },
+    "barmode": "relative",
+    "autosize": true,
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "type": "bar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "table": [
+          {
+            "type": "table",
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "type": "carpet",
+            "aaxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            }
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatter": [
+          {
+            "type": "scatter",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "histogram": [
+          {
+            "type": "histogram",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "scatter3d": [
+          {
+            "type": "scatter3d",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ]
+      },
+      "layout": {
+        "geo": {
+          "bgcolor": "white",
+          "showland": true,
+          "lakecolor": "white",
+          "landcolor": "white",
+          "showlakes": true,
+          "subunitcolor": "#C8D4E3"
+        },
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "polar": {
+          "bgcolor": "white",
+          "radialaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          },
+          "angularaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "yaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "zaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "ternary": {
+          "aaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "baxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "caxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "bgcolor": "white"
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#19d3f3",
+          "#e763fa",
+          "#fecb52",
+          "#ffa15a",
+          "#ff6692",
+          "#b6e880"
+        ],
+        "hovermode": "closest",
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ]
+        },
+        "plot_bgcolor": "white",
+        "paper_bgcolor": "white",
+        "shapedefaults": {
+          "line": {
+            "width": 0
+          },
+          "opacity": 0.4,
+          "fillcolor": "#506784"
+        },
+        "annotationdefaults": {
+          "arrowhead": 0,
+          "arrowcolor": "#506784",
+          "arrowwidth": 1
+        }
+      },
+      "themeRef": "PLOTLY_WHITE"
+    },
+    "showlegend": true,
+    "annotations": []
+  }
+}
