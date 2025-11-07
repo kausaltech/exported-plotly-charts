@@ -23,7 +23,7 @@ def convert_json_to_html(json_path, output_path):
     <head>
         <meta charset="utf-8" />
         <style>
-            .plotly-div {
+            #plotly-div {
                 width: 100%;
                 height: 100%;
             }
