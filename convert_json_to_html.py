@@ -22,12 +22,6 @@ def convert_json_to_html(json_path, output_path):
     html_template = f"""<html>
     <head>
         <meta charset="utf-8" />
-        <style>
-            #plotly-div {
-                width: 100%;
-                height: 100%;
-            }
-        </style>
     </head>
     <body>
         <div id="plotly-div"></div>
