@@ -1,0 +1,260 @@
+{
+  "data": [
+    {
+      "uid": "b1ec64",
+      "meta": {
+        "columnNames": {
+          "x": "Gads",
+          "y": "Elektroener\u0123ijas pat\u0113ri\u0146\u0161, MWh"
+        }
+      },
+      "mode": "markers",
+      "type": "bar",
+      "xsrc": "Rigadata:16:12023d",
+      "x": [
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2020",
+        "2021",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2020",
+        "2021",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "ysrc": "Rigadata:16:f87857",
+      "y": [
+        "27920",
+        "29140",
+        "29850",
+        "30184",
+        "30545",
+        "24863",
+        "23807",
+        "820351",
+        "868632",
+        "1279070",
+        "1310640",
+        "1231640",
+        "1260370",
+        "1225580",
+        "250158",
+        "241904",
+        "35225",
+        "35283",
+        "49690",
+        "52270",
+        "53930",
+        "53370",
+        "51060",
+        "55576",
+        "56912",
+        "537700",
+        "533200",
+        "515660",
+        "513530",
+        "504590",
+        "508184",
+        "524734"
+      ],
+      "transforms": [
+        {
+          "meta": {
+            "columnNames": {
+              "groups": "Sektors"
+            }
+          },
+          "type": "groupby",
+          "styles": [
+            {
+              "value": {
+                "hoverinfo": "x+y"
+              },
+              "target": "ielu apgaismojums"
+            },
+            {
+              "value": {
+                "hoverinfo": "x+y"
+              },
+              "target": "lauksaimniec\u012bba"
+            },
+            {
+              "value": {
+                "hoverinfo": "x+y"
+              },
+              "target": "pakalpojumi"
+            },
+            {
+              "value": {
+                "hoverinfo": "x+y"
+              },
+              "target": "\u016bdens apg\u0101de"
+            },
+            {
+              "value": {
+                "hoverinfo": "x+y"
+              },
+              "target": "transports"
+            },
+            {
+              "value": {
+                "hoverinfo": "x+y"
+              },
+              "target": "m\u0101jsaimniec\u012bbas"
+            }
+          ],
+          "groupssrc": "Rigadata:16:235cc1",
+          "groups": [
+            "ielu apgaismojums",
+            "ielu apgaismojums",
+            "ielu apgaismojums",
+            "ielu apgaismojums",
+            "ielu apgaismojums",
+            "ielu apgaismojums",
+            "ielu apgaismojums",
+            "lauksaimniec\u012bba",
+            "lauksaimniec\u012bba",
+            "pakalpojumi",
+            "pakalpojumi",
+            "pakalpojumi",
+            "pakalpojumi",
+            "pakalpojumi",
+            "pakalpojumi",
+            "pakalpojumi",
+            "\u016bdens apg\u0101de",
+            "\u016bdens apg\u0101de",
+            "transports",
+            "transports",
+            "transports",
+            "transports",
+            "transports",
+            "transports",
+            "transports",
+            "m\u0101jsaimniec\u012bbas",
+            "m\u0101jsaimniec\u012bbas",
+            "m\u0101jsaimniec\u012bbas",
+            "m\u0101jsaimniec\u012bbas",
+            "m\u0101jsaimniec\u012bbas",
+            "m\u0101jsaimniec\u012bbas",
+            "m\u0101jsaimniec\u012bbas"
+          ]
+        }
+      ],
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "text": "<br>"
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2014.5,
+        2021.5
+      ],
+      "ticks": "",
+      "title": {
+        "font": {
+          "size": 20
+        }
+      },
+      "domain": [
+        0,
+        1
+      ],
+      "nticks": 0,
+      "showline": true,
+      "autorange": true,
+      "linewidth": 0,
+      "showspikes": true,
+      "rangeslider": {
+        "range": [
+          2014.5,
+          2021.5
+        ],
+        "yaxis": {},
+        "visible": false,
+        "autorange": true
+      },
+      "exponentformat": "B"
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        1379621.0526315789
+      ],
+      "title": {
+        "font": {
+          "size": 16
+        },
+        "text": "Elektroener\u0123ijas pat\u0113ri\u0146\u0161, MWh"
+      },
+      "autorange": true,
+      "showspikes": true
+    },
+    "legend": {
+      "title": {
+        "text": "Sektori"
+      }
+    },
+    "yaxis2": {
+      "side": "right",
+      "type": "linear",
+      "range": [
+        -1392.388888888889,
+        28775.38888888889
+      ],
+      "autorange": true,
+      "overlaying": "y"
+    },
+    "modebar": {
+      "orientation": "h"
+    },
+    "autosize": true,
+    "colorway": [
+      "#8dd3c7",
+      "#ffffb3",
+      "#bebada",
+      "#fb8072",
+      "#80b1d3",
+      "#fdb462",
+      "#b3de69",
+      "#fccde5",
+      "#d9d9d9",
+      "#bc80bd",
+      "#ccebc5",
+      "#ffed6f"
+    ],
+    "dragmode": "zoom",
+    "separators": ", ",
+    "uniformtext": {
+      "mode": "hide"
+    }
+  }
+}

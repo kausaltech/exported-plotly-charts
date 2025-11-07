@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Gads",
+          "y": "Skaits"
+        }
+      },
+      "mode": "markers",
+      "type": "bar",
+      "xsrc": "Rigadata:14:e5e378",
+      "x": [
+        "2016",
+        "2017",
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2023",
+        "2023"
+      ],
+      "ysrc": "Rigadata:14:129a78",
+      "y": [
+        "474",
+        "447",
+        "458",
+        "429",
+        "424",
+        "403",
+        "479",
+        "200",
+        "181",
+        "172",
+        "169",
+        "169",
+        "105",
+        "95",
+        "290",
+        "254",
+        "253",
+        "269",
+        "278",
+        "278",
+        "235",
+        "486",
+        "95",
+        "235"
+      ],
+      "transforms": [
+        {
+          "meta": {
+            "columnNames": {
+              "groups": "Transportl\u012bdzek\u013ca veids"
+            }
+          },
+          "type": "groupby",
+          "styles": [
+            {
+              "value": {},
+              "target": "autobus"
+            },
+            {
+              "value": {},
+              "target": "tramvajs"
+            },
+            {
+              "value": {},
+              "target": "trolejbus"
+            }
+          ],
+          "groupssrc": "Rigadata:14:3ef1d3",
+          "groups": [
+            "autobus",
+            "autobus",
+            "autobus",
+            "autobus",
+            "autobus",
+            "autobus",
+            "autobus",
+            "tramvajs",
+            "tramvajs",
+            "tramvajs",
+            "tramvajs",
+            "tramvajs",
+            "tramvajs",
+            "tramvajs",
+            "trolejbus",
+            "trolejbus",
+            "trolejbus",
+            "trolejbus",
+            "trolejbus",
+            "trolejbus",
+            "trolejbus",
+            "autobus",
+            "tramvajs",
+            "trolejbus"
+          ]
+        }
+      ],
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2015.5,
+        2023.5
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        511.57894736842104
+      ],
+      "title": {
+        "text": "Transportl\u012bdzek\u013cu skaits"
+      },
+      "autorange": true
+    },
+    "legend": {
+      "title": {
+        "text": "Transportl\u012bdzek\u013ca veids"
+      }
+    },
+    "autosize": true,
+    "colorway": [
+      "#8dd3c7",
+      "#ffffb3",
+      "#bebada",
+      "#fb8072",
+      "#80b1d3",
+      "#fdb462",
+      "#b3de69",
+      "#fccde5",
+      "#d9d9d9",
+      "#bc80bd",
+      "#ccebc5",
+      "#ffed6f"
+    ]
+  }
+}

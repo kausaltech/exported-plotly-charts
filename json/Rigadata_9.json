@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Gads",
+          "y": "dabasg\u0101zes pat\u0113ri\u0146\u0161, GWh/a"
+        }
+      },
+      "mode": "markers",
+      "type": "bar",
+      "xsrc": "Rigadata:8:854d67",
+      "x": [
+        "2020",
+        "2020"
+      ],
+      "ysrc": "Rigadata:8:f22ab6",
+      "y": [
+        "295",
+        "213"
+      ],
+      "transforms": [
+        {
+          "meta": {
+            "columnNames": {
+              "groups": "p\u0101t\u0113r\u0113t\u0101js"
+            }
+          },
+          "type": "groupby",
+          "styles": [
+            {
+              "value": {},
+              "target": "m\u0101jsaimniec\u012bbas"
+            },
+            {
+              "value": {},
+              "target": "p\u0101r\u0113jie lietot\u0101ji"
+            }
+          ],
+          "groupssrc": "Rigadata:8:abff9c",
+          "groups": [
+            "m\u0101jsaimniec\u012bbas",
+            "p\u0101r\u0113jie lietot\u0101ji"
+          ]
+        }
+      ],
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2019.5,
+        2020.5
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        310.5263157894737
+      ],
+      "title": {
+        "text": "Dabasg\u0101zes pat\u0113ri\u0146\u0161, GWh/gad\u0101"
+      },
+      "autorange": true
+    },
+    "autosize": true,
+    "colorway": [
+      "#b3e2cd",
+      "#fdcdac",
+      "#cbd5e8",
+      "#f4cae4",
+      "#e6f5c9",
+      "#fff2ae",
+      "#f1e2cc",
+      "#cccccc"
+    ]
+  }
+}

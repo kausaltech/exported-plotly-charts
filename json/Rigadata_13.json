@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "meta": {
+        "columnNames": {
+          "x": "Ekspluat\u0101cijas uzs\u0101k\u0161anas gads",
+          "y": "Skaits"
+        }
+      },
+      "mode": "markers",
+      "type": "bar",
+      "xsrc": "Rigadata:12:1aba60",
+      "x": [
+        "L\u012bdz 1920",
+        "No 1921 l\u012bdz\n  1945",
+        "No 1946 l\u012bdz\n  1965",
+        "No 1966 l\u012bdz\n  1993",
+        "No 1994 l\u012bdz\n  2021"
+      ],
+      "ysrc": "Rigadata:12:521ad4",
+      "y": [
+        "4490",
+        "2012",
+        "1521",
+        "2268",
+        "723"
+      ],
+      "transforms": [
+        {
+          "meta": {
+            "columnNames": {
+              "groups": "Ekspluat\u0101cijas uzs\u0101k\u0161anas gads"
+            }
+          },
+          "type": "groupby",
+          "styles": [
+            {
+              "value": {},
+              "target": "L\u012bdz 1920"
+            },
+            {
+              "value": {},
+              "target": "No 1921 l\u012bdz\n  1945"
+            },
+            {
+              "value": {},
+              "target": "No 1946 l\u012bdz\n  1965"
+            },
+            {
+              "value": {},
+              "target": "No 1966 l\u012bdz\n  1993"
+            },
+            {
+              "value": {},
+              "target": "No 1994 l\u012bdz\n  2021"
+            }
+          ],
+          "groupssrc": "Rigadata:12:1aba60",
+          "groups": [
+            "L\u012bdz 1920",
+            "No 1921 l\u012bdz\n  1945",
+            "No 1946 l\u012bdz\n  1965",
+            "No 1966 l\u012bdz\n  1993",
+            "No 1994 l\u012bdz\n  2021"
+          ]
+        }
+      ],
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "xaxis": {
+      "type": "category",
+      "range": [
+        -0.5,
+        4.5
+      ],
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        4726.315789473684
+      ],
+      "title": {
+        "text": "\u0112ku skaits"
+      },
+      "autorange": true
+    },
+    "autosize": true,
+    "colorway": [
+      "#8dd3c7",
+      "#ffffb3",
+      "#bebada",
+      "#fb8072",
+      "#80b1d3",
+      "#fdb462",
+      "#b3de69",
+      "#fccde5",
+      "#d9d9d9",
+      "#bc80bd",
+      "#ccebc5",
+      "#ffed6f"
+    ]
+  }
+}

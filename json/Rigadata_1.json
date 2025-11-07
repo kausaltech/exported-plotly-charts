@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "meta": {
+        "columnNames": {
+          "x": "year",
+          "y": "specific heat consumption"
+        }
+      },
+      "type": "bar",
+      "xsrc": "Rigadata:0:c37210",
+      "x": [
+        "2020",
+        "2020"
+      ],
+      "ysrc": "Rigadata:0:214d5e",
+      "y": [
+        "31.6",
+        "144"
+      ],
+      "hoverinfo": "x+y",
+      "transforms": [
+        {
+          "meta": {
+            "columnNames": {
+              "groups": "value"
+            }
+          },
+          "type": "groupby",
+          "styles": [
+            {
+              "value": {},
+              "target": "m\u0101c\u012bbu iest\u0101d\u0113s"
+            },
+            {
+              "value": {},
+              "target": "pa\u0161vald\u012bbas \u0113k\u0101s"
+            }
+          ],
+          "enabled": true,
+          "groupssrc": "Rigadata:0:73544b",
+          "groups": [
+            "m\u0101c\u012bbu iest\u0101d\u0113s",
+            "pa\u0161vald\u012bbas \u0113k\u0101s"
+          ]
+        }
+      ],
+      "orientation": "v"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "text": ""
+    },
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        2019.5,
+        2020.5
+      ],
+      "title": {
+        "text": "<br>"
+      },
+      "nticks": 1,
+      "autorange": true,
+      "fixedrange": false
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        184.8421052631579
+      ],
+      "title": {
+        "text": "\u012apatn\u0113jais siltumener\u0123ijas pat\u0113ri\u0146\u0161, KWh/m<sup>2</sup>"
+      },
+      "autorange": true
+    },
+    "barmode": "relative",
+    "autosize": true,
+    "colorway": [
+      "#8dd3c7",
+      "#ffffb3",
+      "#bebada",
+      "#fb8072",
+      "#80b1d3",
+      "#fdb462",
+      "#b3de69",
+      "#fccde5",
+      "#d9d9d9",
+      "#bc80bd",
+      "#ccebc5",
+      "#ffed6f"
+    ],
+    "hovermode": "closest",
+    "showlegend": true,
+    "bargroupgap": 0.15
+  }
+}
