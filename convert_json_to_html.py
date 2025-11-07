@@ -34,7 +34,7 @@ def convert_json_to_html(json_path, output_path):
         <script src="https://cdn.plot.ly/plotly-1.58.5.min.js"></script>
         <script>
             var data = {data_json};
-            var layout = {layout_json};
+            var layout = {layout_json, autosize: true};
             Plotly.newPlot('plotly-div', data, layout);
         </script>
     </body>
