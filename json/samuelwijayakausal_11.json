@@ -17,7 +17,8 @@
         "Jul - Dec 2023",
         "Jan - Jun 2024",
         "Jul - Dec 2024",
-        "Jan - Jun 2025"
+        "Jan - Jun 2025",
+        "Jul - Dec 2025"
       ],
       "ysrc": "samuelwijayakausal:10:8497f2",
       "y": [
@@ -26,7 +27,8 @@
         "4117",
         "3100",
         "5959",
-        "5325"
+        "5325",
+        "2200"
       ],
       "hoverlabel": {
         "namelength": 0
@@ -51,6 +53,7 @@
         "Jan - Jun 2024",
         "Jul - Dec 2024",
         "Jan - Jun 2025"
+        "Jul - Dec 2025"
       ],
       "ysrc": "samuelwijayakausal:10:ae61a0",
       "y": [
@@ -60,6 +63,7 @@
         "1453",
         "7630",
         "5525"
+        "14780"
       ],
       "marker": {
         "color": "rgb(118, 183, 178)"
@@ -86,7 +90,8 @@
         "Jul - Dec 2023",
         "Jan - Jun 2024",
         "Jul - Dec 2024",
-        "Jan - Jun 2025"
+        "Jan - Jun 2025",
+        "Jul - Dec 2025"
       ],
       "ysrc": "samuelwijayakausal:10:b90af4",
       "y": [
@@ -95,7 +100,8 @@
         "909565",
         "780700",
         "916995",
-        "316980"
+        "316980",
+        "517995"
       ],
       "xaxis": "x2",
       "yaxis": "y2",
@@ -124,7 +130,8 @@
         "Jul - Dec 2023",
         "Jan - Jun 2024",
         "Jul - Dec 2024",
-        "Jan - Jun 2025"
+        "Jan - Jun 2025",
+        "Jul - Dec 2025"
       ],
       "ysrc": "samuelwijayakausal:10:bfccdf",
       "y": [
@@ -133,7 +140,8 @@
         "4423",
         "3803",
         "6739",
-        "1473"
+        "1473",
+        "2852"
       ],
       "xaxis": "x3",
       "yaxis": "y3",
@@ -162,7 +170,8 @@
         "Jul - Dec 2023",
         "Jan - Jun 2024",
         "Jul - Dec 2024",
-        "Jan - Jun 2025"
+        "Jan - Jun 2025",
+        "Jul - Dec 2025"
       ],
       "ysrc": "samuelwijayakausal:10:399cde",
       "y": [
@@ -172,6 +181,7 @@
         "2878",
         "1218",
         "1560"
+        "960"
       ],
       "xaxis": "x3",
       "yaxis": "y3",
@@ -200,7 +210,8 @@
         "Jul - Dec 2023",
         "Jan - Jun 2024",
         "Jul - Dec 2024",
-        "Jan - Jun 2025"
+        "Jan - Jun 2025",
+        "Jul - Dec 2025"
       ],
       "ysrc": "samuelwijayakausal:10:ed6fa5",
       "y": [
@@ -209,7 +220,8 @@
         "3390",
         "3445",
         "3300",
-        "3624"
+        "409",
+        "1690"
       ],
       "xaxis": "x4",
       "yaxis": "y4",
