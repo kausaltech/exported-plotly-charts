@@ -50,9 +50,9 @@
       "ysrc": "samuelwijayakausal:6:8aafe1",
       "y": [
         "33",
-        "35",
-        "70",
-        "86"
+        "36",
+        "68",
+        "80"
       ],
       "xaxis": "x2",
       "yaxis": "y2",
@@ -84,9 +84,9 @@
       "ysrc": "samuelwijayakausal:6:e0972f",
       "y": [
         "48",
-        "51",
+        "52",
         "64",
-        "62"
+        "60"
       ],
       "xaxis": "x2",
       "yaxis": "y2",
@@ -118,9 +118,9 @@
       "ysrc": "samuelwijayakausal:6:fa8689",
       "y": [
         "41",
-        "38",
+        "37",
         "45",
-        "58"
+        "55"
       ],
       "xaxis": "x2",
       "yaxis": "y2",
@@ -152,9 +152,9 @@
       "ysrc": "samuelwijayakausal:6:a2f6c9",
       "y": [
         "2616",
-        "1878",
-        "2819",
-        "1986"
+        "1698",
+        "1896",
+        "2183"
       ],
       "xaxis": "x3",
       "yaxis": "y3",
@@ -187,9 +187,9 @@
       "ysrc": "samuelwijayakausal:6:50ddc8",
       "y": [
         "1086",
-        "440",
-        "2019",
-        "1767"
+        "365",
+        "1553",
+        "2446"
       ],
       "xaxis": "x4",
       "yaxis": "y4",
@@ -214,17 +214,13 @@
       "type": "bar",
       "xsrc": "samuelwijayakausal:6:384138",
       "x": [
-        "2022",
-        "2023",
         "2024",
         "2025"
       ],
       "ysrc": "samuelwijayakausal:6:d2695e",
       "y": [
-        "5",
-        "10",
-        "44",
-        "70"
+        "42",
+        "73"
       ],
       "xaxis": "x2",
       "yaxis": "y2",
@@ -400,7 +396,7 @@
       "type": "linear",
       "range": [
         0,
-        2125.2631578947367
+        2700
       ],
       "title": {
         "text": "PV Capacity (kW)"
