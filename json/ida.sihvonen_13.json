@@ -721,6 +721,7 @@
       },
       "themeRef": "PLOTLY_WHITE"
     },
+    "barmode": "stack",
     "bargroupgap": 0.05
   }
 }
